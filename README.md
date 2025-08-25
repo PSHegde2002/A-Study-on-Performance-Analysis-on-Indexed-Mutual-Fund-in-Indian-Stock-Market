@@ -47,7 +47,7 @@ Data Sources: Secondary data from published reports, mutual fund fact sheets, NS
 
 Tools Used:
 
-Return & risk analysis (standard deviation, beta, etc.)
+Return & risk analysis (standard deviation, beta, alpha.)
 
 Hypothesis testing (T-test)
 
@@ -89,11 +89,9 @@ Conclusion
 
 Bibliography & Appendix
 
-🛠️ Tech Stack (if repo includes code/analysis)
+Excel for statistical analysis
 
-Excel / SPSS / Python (optional) for statistical analysis
-
-PowerPoint / Tableau for visualization (if extended to dashboard form)
+PowerPoint / Tableau for visualization 
 
 📌 Author
 
